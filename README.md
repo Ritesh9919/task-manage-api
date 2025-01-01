@@ -33,6 +33,7 @@ This is a simple task management api built using Node.js, Express, and MongoDB (
    ```
    MONGO_URI=
    PORT=
+   JWT_SECRET=
    ```
 
 ### Running the Application
